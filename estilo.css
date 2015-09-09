@@ -1,0 +1,44 @@
+body{
+	font-family: arial;
+	color: black;
+	background-color: grey;
+}
+
+p{
+	text-align: justify;
+	font-size: 12px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+h1,h2,h5{
+	text-transform: uppercase;
+	text-align: right;
+	
+}
+
+.gremio
+{
+	color: blue;
+}
+
+.inter
+{
+	color: yellow;
+	font-style: italic;
+}
+
+.cbf
+{
+	color: yellow;
+}
+
+#surf
+{
+	background-color: deepskyblue;
+}
+
+.principal
+{
+	font-size: 30px;
+}
